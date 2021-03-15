@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Body
   description: Bla
+pages:
+- content/posts/hshsh-shhssh.md
