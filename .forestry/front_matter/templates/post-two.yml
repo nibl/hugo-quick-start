@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Main Text
   description: 'The article '
+pages:
+- content/posts/post-two.md
