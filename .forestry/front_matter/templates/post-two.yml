@@ -8,7 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: posttitle
+- name: maintext
   type: textarea
   default: ''
   config:
@@ -16,5 +16,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: Post Title
-  description: A post title
+  label: Main Text
+  description: 'The article '
