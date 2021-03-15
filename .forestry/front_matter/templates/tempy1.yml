@@ -9,15 +9,5 @@ fields:
     required: false
   label: Title
   description: Bla
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Body
-  description: Bla
 pages:
 - content/posts/hshsh-shhssh.md
