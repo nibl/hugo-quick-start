@@ -1,6 +1,7 @@
 ---
 label: Tempy1
 hide_body: false
+display_field: body
 fields:
 - name: title
   type: text
